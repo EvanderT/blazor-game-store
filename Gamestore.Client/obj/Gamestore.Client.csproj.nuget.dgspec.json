@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\Gamestore.Client.csproj": {}
+    "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\Gamestore.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\Gamestore.Client.csproj": {
+    "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\Gamestore.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\Gamestore.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\Gamestore.Client.csproj",
         "projectName": "Gamestore.Client",
-        "projectPath": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\Gamestore.Client.csproj",
+        "projectPath": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\Gamestore.Client.csproj",
         "packagesPath": "C:\\Users\\Evander.Teixeira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\obj\\",
+        "outputPath": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\3c2y1ovl7l.gz",
+      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\obj\\Debug\\net8.0\\compressed\\3c2y1ovl7l.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Gamestore.Client.styles.css",
+      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Gamestore.Client.styles.css",
       "PackagePath": "staticwebassets\\Gamestore.Client.styles.css"
     },
     {
-      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\GameStore.Client\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Evander.Teixeira\\Documents\\Programming Projects\\Back-End\\asp.net\\blazor\\game-store\\gamestore.client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
